@@ -11,4 +11,4 @@ This will clone the repo, install the nav meshes, and remove the repo again.
 
 Old Github: https://github.com/Yayo443
 
-My New Discord Server: https://discord.gg/NUghcsyM (i'm lonely)
+My New Discord Server: https://discord.gg/NUghcsyM
