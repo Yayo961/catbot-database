@@ -10,3 +10,5 @@ Configs may be out of date.
 This will clone the repo, install the nav meshes, and remove the repo again.
 
 old github: https://github.com/Yayo443
+
+discord: https://discord.gg/NUghcsyM (am lonely)
